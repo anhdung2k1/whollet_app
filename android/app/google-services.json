@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576878489728",
+    "project_id": "whollet-app-7729e",
+    "storage_bucket": "whollet-app-7729e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576878489728:android:5eeccfb2acd28238fcf665",
+        "android_client_info": {
+          "package_name": "com.example.whollet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576878489728-qjkrcgu3fqjk99d9s9sui5nker2lvcja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjZ9_gQKBxkKDQtfxpQuLdCeFzGiQQXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576878489728-qjkrcgu3fqjk99d9s9sui5nker2lvcja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
